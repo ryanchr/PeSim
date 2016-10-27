@@ -1,0 +1,4 @@
+>>main 1
+sim_main>>regs.regs_NPC = 32980
+sim_main>>regs.regs_PC = 32976
+sim_main>>inst = -442515420

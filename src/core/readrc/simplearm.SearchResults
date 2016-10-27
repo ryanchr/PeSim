@@ -1,0 +1,3 @@
+---- ** simulation statistics ** Æ¥Åä (2 in 2 ÎÄ¼þ) ----
+Main.c (e:\fedora\share\simplesim-arm):  fprintf(fd, "\nsim: ** simulation statistics **\n");
+Sim-cheetah.c (e:\fedora\share\simplesim-arm):  fprintf(stream, "\nsim: ** simulation statistics **\n");
